@@ -1,4 +1,4 @@
 # float-layouting
 CSS - Float Layouting
 
-https://musshal.github.io/float-layouting/
+https://faishaldev.github.io/float-layouting/
